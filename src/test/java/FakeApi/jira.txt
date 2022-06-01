@@ -1,0 +1,2 @@
+This is new Automation test issue 
+need to login the application 
